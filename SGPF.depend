@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1665753349 source:e:\documentos\prog 2\projeto 2 prog ii\projeto 2\sgpf\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"gconio.h"
+	"funcfam.h"
+
+1665753401 e:\documentos\prog 2\projeto 2 prog ii\projeto 2\sgpf\funcfam.h
+
+1659987457 e:\documentos\prog 2\projeto 2 prog ii\projeto 2\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1664567587 source:c:\users\89397000s\downloads\sgpf\sgpf\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"gconio.h"
+	"funcfam.h"
+
+1659987457 c:\users\89397000s\downloads\sgpf\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1664562929 c:\users\89397000s\downloads\sgpf\sgpf\funcfam.h
+
+1664902020 source:c:\users\202100056307\desktop\sgpf\sgpf\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"gconio.h"
+	"funcfam.h"
+
+1659987457 c:\users\202100056307\desktop\sgpf\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1664652683 c:\users\202100056307\desktop\sgpf\sgpf\funcfam.h
+
+1666118683 source:c:\users\admin\downloads\sgpf\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"gconio.h"
+	"funcfam.h"
+	<time.h>
+
+1659987457 c:\users\admin\downloads\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1666119289 c:\users\admin\downloads\sgpf\funcfam.h
+
+1667951699 source:c:\users\89397000s\downloads\sgpf\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"gconio.h"
+	"funcfam.h"
+
+1659987457 c:\users\89397000s\downloads\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667952619 c:\users\89397000s\downloads\sgpf\funcfam.h
+
+1668107657 source:c:\users\gucor\onedrive\햞ea de trabalho\sgpf\main.cpp
+	<stdio.h>
+	"conio.h"
+	<iomanip>
+	<string.h>
+	<windows.h>
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"gconio.h"
+	"funcfam.h"
+
+1659987457 c:\users\gucor\onedrive\햞ea de trabalho\sgpf\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668113677 c:\users\gucor\onedrive\햞ea de trabalho\sgpf\funcfam.h
+
+1526093414 c:\users\gucor\onedrive\햞ea de trabalho\sgpf\conio.h
+	<crtdefs.h>
+	<sec_api/conio_s.h>
+

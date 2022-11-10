@@ -1,0 +1,14 @@
+
+Nome: Gustavo
+Renda mensal: 100,00
+Despesas Mensais:
+Aluguel: 10,00
+agua: 10,00
+
+escola: 10,00
+
+lazer: 10,00
+
+cartao: 10,00
+
+Restante: 50,00
